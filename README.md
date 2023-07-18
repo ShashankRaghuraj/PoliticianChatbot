@@ -1,4 +1,4 @@
-# PoliticianChatbot
+# Politician Chatbot
 
 Alex Jones is an infamous political talk show host, whose ideologies have been known to exert a detrimental influence on a significant global audience through the dissemination of misinformation. In response to these concerns, I took proactive action by developing a sophisticated chatbot utilizing GPT-3 and OpenAI technologies.
 
